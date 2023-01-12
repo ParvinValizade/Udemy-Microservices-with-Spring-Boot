@@ -1,0 +1,25 @@
+
+P
+ spring-boot-restful/build.gradle,e/7/e749818c849fef96a941ce27d99897083d6cf179
+‡
+Wlimits-service/src/main/java/com/company/limitsservice/controller/LimitsController.java,f/7/f79b1da4399c2a58e3ba243cb9b9434f588711ed
+x
+Hlimits-service/src/main/java/com/company/limitsservice/model/Limits.java,8/3/839258d66110fad2b022ad561805f2d3cf42865e
+K
+limits-service/build.gradle,f/0/f006a3c015fafe4c8910a227a509590178f48c9c
+T
+$git-config/limits-service.properties,a/9/a94bd0e5fb303c03cee38bd0a9fb2344de3c1894
+„
+Tlimits-service/src/main/java/com/company/limitsservice/config/ApplicationConfig.java,8/1/817fc013bb71e5dd965e01e0c00bb474b4955dfe
+U
+%currency-exchange-service/gradlew.bat,b/f/bff775a985ef63aea89ce0b4e872b2772d099874
+Y
+)currency-exchange-service/settings.gradle,2/b/2baacbc278f957e4d07517e0caece06c48c2ef13
+Q
+!currency-exchange-service/gradlew,a/a/aaf9fb381696074e0a7364181992bf726d799272
+T
+$currency-exchange-service/.gitignore,3/2/320a607783ad98b762dc4be56c25b7c985fa4ff0
+r
+Bcurrency-exchange-service/gradle/wrapper/gradle-wrapper.properties,9/e/9ec5d86cc6d7fa9e4441c0cba4015235118af570
+¨
+xcurrency-exchange-service/src/test/java/com/company/currencyexchangeservice/CurrencyExchangeServiceApplicationTests.java,1/1/11ce7e7860d0ff8722406297ee28f293bbd879c1
