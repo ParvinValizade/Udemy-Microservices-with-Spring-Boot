@@ -23,3 +23,17 @@ r
 Bcurrency-exchange-service/gradle/wrapper/gradle-wrapper.properties,9/e/9ec5d86cc6d7fa9e4441c0cba4015235118af570
 ¨
 xcurrency-exchange-service/src/test/java/com/company/currencyexchangeservice/CurrencyExchangeServiceApplicationTests.java,1/1/11ce7e7860d0ff8722406297ee28f293bbd879c1
+„
+Tlimits-service/src/main/java/com/company/limitsservice/LimitsServiceApplication.java,5/9/597576e4d25b8c7890df753a809c92b0aec60a6f
+t
+Dcurrency-conversion-service/gradle/wrapper/gradle-wrapper.properties,5/8/58a46b10b882c665a6b20921b6945ad976680142
+V
+&currency-conversion-service/.gitignore,1/0/107b605ac43ab5806970a43335c11700020f5590
+W
+'currency-conversion-service/gradlew.bat,1/5/1500ac0adb43da324ffd184d0197cc8f9b76fbd7
+[
++currency-conversion-service/settings.gradle,d/8/d894613614ee23315a90bd8469f0525d5942055e
+S
+#currency-conversion-service/gradlew,8/3/830eddc249b0890c19c7418d1abeadceddee834f
+®
+~currency-conversion-service/src/test/java/com/company/currencyconversionservice/CurrencyConversionServiceApplicationTests.java,4/4/44050570d4a7619c01f6440eae46f0ca7430c081
