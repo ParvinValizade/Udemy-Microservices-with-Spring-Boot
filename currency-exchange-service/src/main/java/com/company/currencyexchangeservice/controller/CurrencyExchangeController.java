@@ -21,7 +21,6 @@ public class CurrencyExchangeController {
     public CurrencyExchange retrieveExchangeValue(@PathVariable String from,
                                                   @PathVariable String to) {
         String port = environment.getProperty("local.server.port");
-        System.out.println("port::"+port);
 
         return CurrencyExchange.builder().id(1L).
                 from(from).
